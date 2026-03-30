@@ -112,17 +112,6 @@ body {
   color: #020617;
 }
 
-.link-item.secondary {
-  background: #020617;
-  color: #38bdf8;
-}
-
-.link-item.secondary:hover,
-.link-item.secondary:focus {
-  background: #38bdf8;
-  color: #020617;
-}
-
 /* === LOADER === */
 .loader {
   position: fixed;
